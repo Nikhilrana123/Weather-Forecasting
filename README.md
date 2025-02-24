@@ -1,6 +1,7 @@
 #A "weather forecasting project" aims to develop a system that utilizes scientific principles and data analysis to predict future weather conditions for a specific location, typically by collecting real-time atmospheric data like temperature, pressure, humidity, wind speed, and cloud cover, then using computer models to calculate how these factors will change over time, providing forecasts for the coming hours or days, often accessible through a user interface like a website or mobile app. 
 
 Key components of a weather forecasting project:
+
 Data Collection:
 
 
