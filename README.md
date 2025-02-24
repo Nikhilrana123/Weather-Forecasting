@@ -11,8 +11,10 @@ Gathering current weather data from sources like weather stations, satellites, a
 Data Processing:
 Cleaning and organizing collected data to ensure accuracy and compatibility with the chosen weather prediction model. 
 Weather Modeling:
+
 Utilizing numerical weather prediction models to simulate atmospheric changes based on the collected data. 
 Forecast Generation:
+
 Interpreting model outputs to produce forecasts for various weather parameters like temperature, precipitation, wind speed, and cloud cover. 
 User Interface:
 Designing a user-friendly interface to display weather forecasts for specific locations, potentially with options to view hourly, daily, or extended forecasts.
