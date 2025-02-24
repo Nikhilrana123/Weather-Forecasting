@@ -6,6 +6,8 @@ Data Collection:
 
 
 Gathering current weather data from sources like weather stations, satellites, and weather data APIs. 
+
+
 Data Processing:
 Cleaning and organizing collected data to ensure accuracy and compatibility with the chosen weather prediction model. 
 Weather Modeling:
